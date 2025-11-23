@@ -5,8 +5,8 @@
 To construct a RC phase shift and Wien bridge oscillator to generate sine wave using op-
 amp.
 ---
- ##THEORY:
- ##RC PHASE SHIFT OSCILLATOR
+ THEORY:
+ RC PHASE SHIFT OSCILLATOR
 RC phase shift oscillator produces 360° of phase shift in two parts. Firstly,each and every RC pair in the feedback network produces 60° phase shift and totally there were three pairs, thus producing 180° Phase shift and secondly, the feedback input is given to the inverting terminal of op-amp to produce another 180° phase shift and a total phase shift of 360°.
 The frequency of oscillation is given by fo = 1 /  6 (2RC ).If an inverting amplifier is used, the gain must be atleast equal to 29 to ensure the oscillations with constant .
 ---
@@ -29,7 +29,8 @@ The frequency of oscillation is given by fo = 1 /  6 (2RC ).If an invertin
 ---
 ## CIRCUIT DIAGRAM
 RC PHASE SHIFT OSCILLATOR
-<img width="952" height="976" alt="image" src="https://github.com/user-attachments/assets/dd2b5792-8183-4214-9245-8373279357f6" />
+![WhatsApp Image 2025-11-23 at 15 21 29_23e834ae](https://github.com/user-attachments/assets/5ab22e81-7cf6-4032-9a7b-08e4e4b9dd04)
+
 
 
 
@@ -57,17 +58,12 @@ R1 =10 R = 33 k. Rf = 29R1=1MΩ
 ---
 ## TABULATION/OBSERVATION
 
+![WhatsApp Image 2025-11-23 at 15 21 39_206ce1f8](https://github.com/user-attachments/assets/1c3e9891-be0a-48c4-8f16-a32515cd8cb0)
 
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+![WhatsApp Image 2025-11-23 at 15 23 02_357277bb](https://github.com/user-attachments/assets/f7f270d5-0a3b-43a4-a501-9da58b65ed5a)
 
 ---
 ## THEORY
@@ -90,7 +86,8 @@ The frequency of oscillation is given by fo = 1/2πRC
 
 ## CIRCUIT DIAGRAM
 WIEN BRIDGE OSCILLATOR
-<img width="570" height="480" alt="image" src="https://github.com/user-attachments/assets/be71f26e-36ad-4677-8117-51362146cbbd" />
+![WhatsApp Image 2025-11-23 at 15 25 29_6d58f28d](https://github.com/user-attachments/assets/3418d43c-fb32-4ca6-b660-942c29a9499b)
+
 
 
 ---
@@ -123,17 +120,13 @@ Rf = 15K *2=30KΩ
 4.	The output voltage is obtained in the CRO and the input and output voltage waveforms are plotted in a graph sheet.
 ---
 ## TABULATION/OBSERVATION
+![WhatsApp Image 2025-11-23 at 15 25 56_8386d914](https://github.com/user-attachments/assets/58370da6-1769-486c-9e55-f31fff78abee)
 
 
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
+
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-11-23 at 15 26 27_58be3294](https://github.com/user-attachments/assets/7d0babc1-4dea-45e5-a48c-c214e334a89d)
 
 
 ---
