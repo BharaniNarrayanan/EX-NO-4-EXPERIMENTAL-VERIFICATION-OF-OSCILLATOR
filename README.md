@@ -40,6 +40,7 @@ RC PHASE SHIFT OSCILLATOR
 <img width="414" height="324" alt="image" src="https://github.com/user-attachments/assets/3389b740-b70e-4148-9bf9-e5319627260f" />
 
 ## DESIGN
+![WhatsApp Image 2025-12-04 at 10 42 58_ec8de779](https://github.com/user-attachments/assets/3a084d11-fa60-405e-a0bf-4430121135d0)
 
 ## RC PHASE SHIFT OSCILLATOR
 fo = 1 /  6 (2RC) Rf  29 R1
