@@ -99,6 +99,9 @@ WIEN BRIDGE OSCILLATOR
 
 ## DESIGN
 
+![WhatsApp Image 2025-12-04 at 10 42 58_b0cc753b](https://github.com/user-attachments/assets/d47daaf5-7773-4772-9c08-27bab1088ae4)
+
+
 ## WIEN BRIDGE OSCILLATOR
 Select frequency f0 = 1KHz
 fo = 1/2πRC
